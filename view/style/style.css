@@ -1,0 +1,103 @@
+body{
+background:url("../images/rift.jpg");
+background-size : 100% 100%;
+background-repeat:no-repeat;
+background-attachment: fixed;
+z-index: -1;
+}
+
+
+#page{
+
+	margin-left: auto;
+    margin-right: auto;
+	
+	
+}
+#page-header {
+	height:375px;
+	margin-left: auto;
+    margin-right: auto;
+	background:url("../images/header-font2.jpg");
+	background-size : 100% 100%;
+	background-position: center;
+	background-repeat:no-repeat;
+	z-index: -1;
+}
+
+
+
+#page-header #header-menu{
+	position : relative;
+	border-radius: 25px;
+	float : bottom;
+	margin-left: auto;
+    margin-right: auto;
+	top : 150px;
+	width : 550px;
+}
+
+
+#page-content{
+	position :relative;
+	padding:50px 50px 50px 50px;
+	background-color : white;
+	margin-bottom: 150px;
+	margin-left: auto;
+    margin-right: auto;
+	border-radius: 5px;
+	width : 1000px;
+	top : 125px;
+}
+
+
+#page-content div{
+
+	position : relative;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+#page-content h3{
+	position : relative;
+	text-align: center;
+	margin-bottom : 50px;
+}
+
+#page-content h4{
+	position : relative;
+	text-align: center;
+	margin-bottom : 50px;
+}
+
+
+.embed-responsive {
+	margin-bottom : 100px;
+}
+
+.page-footer {
+	position :relative;
+	margin-left: auto;
+    margin-right: auto;
+	width : 250px;
+	margin-top : 10px;
+	margin-bottom: 10px;
+	color : #b1b1b1;
+}
+
+.LoL {
+	right : 20px;
+	position :relative;
+	display:block;
+	width:150px;
+	margin-top: 50px;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.erreur{
+	color :red;
+	font-style:italic;
+}
+
+	
